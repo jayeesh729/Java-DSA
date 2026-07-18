@@ -1,34 +1,47 @@
+import java.util.*;
+
 class Solution {
     public int[] asteroidCollision(int[] asteroids) {
-        int n = asteroids.length; 
-        List<Integer> st = new ArrayList<>();
 
-        for(int i=0; i<n ;i++){
-            if(asteroids[i] > 0) st.add(asteroids[i]);
-            else{
-                while(!st.isEmpty() && st.get(st.size() -1) > 0 &&  st.get(st.size() - 1) < Math.abs(asteroids[i]) ){
-                    st.remove(st.size() - 1);
+        Stack<Integer> st = new Stack<>();
+
+        for (int asteroid : asteroids) {
+
+            if (asteroid > 0) {
+                st.push(asteroid);
+            } else {
+
+                while (!st.isEmpty() &&
+                       st.peek() > 0 &&
+                       st.peek() < Math.abs(asteroid)) {
+                    st.pop();
                 }
 
-                if( !st.isEmpty() && st.get(st.size() - 1) == Math.abs(asteroids[i]) ){
-                    st.remove(st.size()  - 1);
+                // Equal size: both explode
+                if (!st.isEmpty() &&
+                    st.peek() == Math.abs(asteroid)) {
+                    st.pop();
                     continue;
                 }
 
-                // inserting negative elements 
-                if(  st.isEmpty() || st.get(st.size() - 1) < 0){
-                    st.add(asteroids[i]);
+                // Positive asteroid is bigger
+                if (!st.isEmpty() &&
+                    st.peek() > Math.abs(asteroid)) {
+                    continue;
+                }
+
+                // No collision or stack has only negative asteroids
+                if (st.isEmpty() || st.peek() < 0) {
+                    st.push(asteroid);
                 }
             }
-
         }
-        // converting the list to array
-        int ans[] = new int[st.size()];
-        for(int i=0 ; i< st.size() ;i++){
+
+        int[] ans = new int[st.size()];
+        for (int i = 0; i < st.size(); i++) {
             ans[i] = st.get(i);
         }
 
         return ans;
-        
     }
 }
