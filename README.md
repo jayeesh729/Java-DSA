@@ -5,8 +5,21 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/jayeesh729/Java-DSA/tree/master/0137-single-number-ii) |
+| [0455-assign-cookies](https://github.com/jayeesh729/Java-DSA/tree/master/0455-assign-cookies) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/jayeesh729/Java-DSA/tree/master/0137-single-number-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/jayeesh729/Java-DSA/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/jayeesh729/Java-DSA/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/jayeesh729/Java-DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
