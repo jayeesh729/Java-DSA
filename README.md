@@ -15,6 +15,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/jayeesh729/Java-DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/jayeesh729/Java-DSA/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -26,4 +27,12 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/jayeesh729/Java-DSA/tree/master/0455-assign-cookies) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/jayeesh729/Java-DSA/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/jayeesh729/Java-DSA/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
