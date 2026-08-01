@@ -7,6 +7,7 @@
 | [0134-gas-station](https://github.com/jayeesh729/Java-DSA/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/jayeesh729/Java-DSA/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayeesh729/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/jayeesh729/Java-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0455-assign-cookies](https://github.com/jayeesh729/Java-DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/jayeesh729/Java-DSA/tree/master/0860-lemonade-change) |
 ## Bit Manipulation
@@ -61,4 +62,12 @@
 | [1683-invalid-tweets](https://github.com/jayeesh729/Java-DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/jayeesh729/Java-DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/jayeesh729/Java-DSA/tree/master/1934-confirmation-rate) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/jayeesh729/Java-DSA/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/jayeesh729/Java-DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
