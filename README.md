@@ -34,6 +34,7 @@
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/jayeesh729/Java-DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/jayeesh729/Java-DSA/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/jayeesh729/Java-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0383-ransom-note](https://github.com/jayeesh729/Java-DSA/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -83,4 +85,8 @@
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/jayeesh729/Java-DSA/tree/master/0733-flood-fill) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/jayeesh729/Java-DSA/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
