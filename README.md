@@ -34,6 +34,7 @@
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/jayeesh729/Java-DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/jayeesh729/Java-DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/jayeesh729/Java-DSA/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/jayeesh729/Java-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/jayeesh729/Java-DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/jayeesh729/Java-DSA/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
