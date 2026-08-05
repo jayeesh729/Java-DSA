@@ -34,6 +34,7 @@
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/jayeesh729/Java-DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/jayeesh729/Java-DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/jayeesh729/Java-DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/jayeesh729/Java-DSA/tree/master/0392-is-subsequence) |
@@ -68,6 +69,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/jayeesh729/Java-DSA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/jayeesh729/Java-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/jayeesh729/Java-DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/jayeesh729/Java-DSA/tree/master/0383-ransom-note) |
