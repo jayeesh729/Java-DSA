@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayeesh729/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/jayeesh729/Java-DSA/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/jayeesh729/Java-DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/jayeesh729/Java-DSA/tree/master/0455-assign-cookies) |
 ## Greedy
@@ -69,6 +70,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/jayeesh729/Java-DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/jayeesh729/Java-DSA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/jayeesh729/Java-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/jayeesh729/Java-DSA/tree/master/0290-word-pattern) |
@@ -93,4 +95,12 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/jayeesh729/Java-DSA/tree/master/0383-ransom-note) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/jayeesh729/Java-DSA/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/jayeesh729/Java-DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
