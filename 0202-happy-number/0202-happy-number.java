@@ -1,0 +1,27 @@
+class Solution {
+    private int findDigitSquare(int n){
+        int ans = 0;
+        while(n>0){
+            int digit = n%10;
+            n = n/10;
+            ans = (digit*digit) + ans;
+        }
+        return ans;
+    }
+
+    public boolean isHappy(int n) {
+        HashSet<Integer> set = new HashSet<>();
+        set.add(n);
+
+        int newN = n;
+        while(newN !=1){
+            newN = findDigitSquare(newN);
+            
+            if(set.contains(newN)){
+                return false;
+            }
+            set.add(newN);
+        }
+        return true;
+    }
+}
