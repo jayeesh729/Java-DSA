@@ -11,6 +11,7 @@
 | [0455-assign-cookies](https://github.com/jayeesh729/Java-DSA/tree/master/0455-assign-cookies) |
 | [0733-flood-fill](https://github.com/jayeesh729/Java-DSA/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/jayeesh729/Java-DSA/tree/master/0860-lemonade-change) |
+| [0930-binary-subarrays-with-sum](https://github.com/jayeesh729/Java-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jayeesh729/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Bit Manipulation
 |  |
@@ -79,11 +80,13 @@
 | [0242-valid-anagram](https://github.com/jayeesh729/Java-DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/jayeesh729/Java-DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/jayeesh729/Java-DSA/tree/master/0383-ransom-note) |
+| [0930-binary-subarrays-with-sum](https://github.com/jayeesh729/Java-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jayeesh729/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/jayeesh729/Java-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/jayeesh729/Java-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jayeesh729/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Depth-First Search
 |  |
@@ -113,5 +116,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/jayeesh729/Java-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jayeesh729/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
