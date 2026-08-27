@@ -12,6 +12,7 @@
 | [0733-flood-fill](https://github.com/jayeesh729/Java-DSA/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/jayeesh729/Java-DSA/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/jayeesh729/Java-DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/jayeesh729/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jayeesh729/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Bit Manipulation
 |  |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayeesh729/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1004-max-consecutive-ones-iii](https://github.com/jayeesh729/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Database
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/jayeesh729/Java-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/jayeesh729/Java-DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/jayeesh729/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jayeesh729/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Depth-First Search
 |  |
@@ -117,5 +120,6 @@
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/jayeesh729/Java-DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/jayeesh729/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jayeesh729/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
