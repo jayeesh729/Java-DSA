@@ -15,6 +15,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/jayeesh729/Java-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayeesh729/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jayeesh729/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jayeesh729/Java-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/jayeesh729/Java-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayeesh729/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jayeesh729/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jayeesh729/Java-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -125,4 +127,5 @@
 | [0930-binary-subarrays-with-sum](https://github.com/jayeesh729/Java-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayeesh729/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jayeesh729/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jayeesh729/Java-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
